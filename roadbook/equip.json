@@ -1,0 +1,180 @@
+{
+  "name": "夏季装备",
+  "list": [
+    {
+      "name": "👔衣服",
+      "children": [
+        {
+          "name": "一次性内裤🩲",
+          "chosen": false,
+          "selected": false
+        },
+        {
+          "name": "👙内衣",
+          "chosen": false,
+          "selected": false
+        },
+        {
+          "name": "睡衣",
+          "chosen": false,
+          "selected": false
+        },
+        {
+          "name": "防晒衣",
+          "chosen": false,
+          "selected": false
+        },
+        {
+          "name": "🩴拖鞋",
+          "chosen": false,
+          "selected": false
+        },
+        {
+          "name": "墨镜",
+          "chosen": false,
+          "selected": false
+        },
+        {
+          "name": "出行衣物",
+          "chosen": false,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "name": "数码产品📷",
+      "children": [
+        {
+          "name": "iPad",
+          "chosen": false,
+          "selected": false
+        },
+        {
+          "name": "MacBook💻",
+          "chosen": false,
+          "selected": false
+        },
+        {
+          "name": "🤳自拍杆",
+          "chosen": false,
+          "selected": false
+        },
+        {
+          "name": "排插",
+          "chosen": false,
+          "selected": false
+        },
+        {
+          "name": "充电线",
+          "chosen": false,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "name": "证件",
+      "children": [
+        {
+          "name": "身份证",
+          "chosen": false,
+          "selected": false
+        },
+        {
+          "name": "银行卡",
+          "chosen": false,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "name": "🧺卫生用品",
+      "children": [
+        {
+          "name": "洗漱包",
+          "chosen": false,
+          "selected": false
+        },
+        {
+          "name": "牙刷、牙膏",
+          "chosen": false,
+          "selected": false
+        },
+        {
+          "name": "止血贴",
+          "chosen": false,
+          "selected": false
+        },
+        {
+          "name": "澡巾",
+          "chosen": false,
+          "selected": false
+        },
+        {
+          "name": "擦头巾",
+          "chosen": false,
+          "selected": false
+        },
+        {
+          "name": "剃须刀",
+          "chosen": false,
+          "selected": false
+        },
+        {
+          "name": "头箍",
+          "chosen": false,
+          "selected": false
+        },
+        {
+          "name": "纸巾",
+          "chosen": false,
+          "selected": false
+        },
+        {
+          "name": "湿巾",
+          "chosen": false,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "name": "美美💝",
+      "children": [
+        {
+          "name": "卷发棒、发根棒",
+          "chosen": false,
+          "selected": false
+        },
+        {
+          "name": "防晒霜",
+          "chosen": false,
+          "selected": false
+        },
+        {
+          "name": "化妆包：粉底、腮红、眼影、口红、睫毛、眉工具",
+          "chosen": false,
+          "selected": false
+        },
+        {
+          "name": "护肤包：面膜、卸妆、洁面、眼唇",
+          "chosen": false,
+          "selected": false
+        },
+        {
+          "name": "吹风机",
+          "chosen": false,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "name": "其它",
+      "children": [
+        {
+          "name": "脏衣袋",
+          "chosen": false,
+          "selected": false
+        }
+      ]
+    }
+  ]
+}
